@@ -8,10 +8,6 @@ blurb:
     Erotische Telefonate und versaute Gespräche mit attraktiven Damen in der
     Telefonsexline ohne 0900 Nummer vom Mobiltelefon. Günstiger Minutenpreis,
     alle Handynetze, alle Handys, kein Abo, anonym und diskret.
-
-
-    Günstig Handy Telefonsex ohne 0900 mit scharfen Girls genießen, ohne erst
-    lange im Netz danach suchen oder googeln zu müssen.
 intro:
   heading: Ruf doch mal an
   text: >-
@@ -57,7 +53,9 @@ products:
       Telefonsex ein und zögere nicht mehr länger sondern ruf jetzt an. Wähle
       die heiße Telefonsexnummer vom Handy und verschaff dir selbst einen
       Eindruck von den Vorteilen beim Handysex und der wilden Sexlust der auf
-      deinen Anruf wartenden Damen.
+      deinen Anruf wartenden Damen. Günstig Handy Telefonsex ohne 0900 mit
+      scharfen Girls genießen, ohne erst lange im Netz danach suchen oder
+      googeln zu müssen.
 values:
   heading: Ist Telefonsex mit Frauen aus meiner Region möglich?
   text: >-
