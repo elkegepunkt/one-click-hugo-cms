@@ -1,102 +1,93 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
+title: Unsere Telefonsexhotline
+image: /img/telefonsexhotline.jpg
+heading: Sexy Frauen in unserer Telefonsexhotline
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Erotische Telefonate und versaute Gespräche mit attraktiven Damen in der
+  Telefonsexline ohne 0900 Nummer vom Mobiltelefon. Günstiger Minutenpreis, alle
+  Handynetze, alle Handys, kein Abo, anonym und diskret.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
+    - image: /img/guenstig.png
+      text: Günstig - Teuer war gestern. Telefonsex vom Handy für unter 2 Euro.
+    - image: /img/sexy-frauen.png
+      text: >-
+        Sexy Frauen - Heiße Girls mit sexy Stimme aus ganz Deutschland live
+        anrufen.
+    - image: /img/alle-netze.png
+      text: Alle Netze - Günstiger Telefonsex für alle deutschen Mobilfunknetze.
+    - image: /img/kein-abo.png
+      text: 'Kein Abo - Minutengenaue Abrechnung, alle Handynetze, kein Abo.'
+    - image: /img/anonym.png
+      text: Anonym - Diskret vom Handy ohne 0900 Nummer anrufen.
+  heading: Handy Sex Features.
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
----
+    Diskret vom Handy ohne 0900 Nummer anrufen. Und das jeden Tag, rund um die
+    Uhr. Zu einem äußerst günstigem Minutenpreis. Jede Minute mit den Girls in
+    der Hotline kostet nicht mehr als 1,99€ vom Handy aus.
+main:
+  heading: Telefonsex mit Handy live erleben
+  description: >-
+    Für den Fall, dass du bisher noch nie mobiles Telefonsex Angebot genutzt
+    haben, so ist es langsam aber sicher an der Zeit, Nägel mit Köpfen zu machen
+    und alle Vorteile von Handysex per Kurzwahl-Nummer zu nutzen.
 
+
+    Hier kommst du ganz ohne 0900 Anwahl in den Genuß versauter Telefonerotik am
+    Handy mit attraktiven Damen ab 18. Lass dich ohne Wartezeit nach der
+    Preisansage und Eingabe der PIN mit geilen Ludern nach deinem Geschmack
+    verbinden.
+
+
+    Lass dir von den Frauen in der Telefon Sex Hotline alle deine erotischen
+    Wünsche erfüllen, egal wie ausgefallen sie auch sein mögen. Erweitere den
+    Schatz deiner sexuellen Erfahrungen oder probier Dinge aus, für die du
+    bislang keine Frau gefunden hast.
+
+
+    Tipp die Nummer ein und erlebe zum ersten mal Telefonsex vom Handy.
+  image1:
+    alt: Nette Girls stehen auf Dirty Talk
+    image: /img/handysex.jpg
+  image2:
+    alt: Telefon Sexgespräche mit Frauen
+    image: /img/on-the-phone.jpg
+  image3:
+    alt: Beste Telefonsex Nummer für Handysex
+    image: /img/beste-telefonsex-nummer.jpg
+testimonials:
+  - author: 'Willi B., Klagenfurt'
+    quote: >-
+      So sollte mobiler Sex am Telefon immer sein, niemals anders: nicht zu
+      teuer, hoffnungslos versaut und mit netten Damen. Ich habe diese Hotline
+      zweifellos nicht zum letzten mal angerufen.
+  - author: 'Sebastian W., Leipzig'
+    quote: >-
+      Endlich mal eine Line, wo die Luder halten was sie versprechen. Daumen
+      hoch!
+  - author: 'Ernst W., München'
+    quote: >-
+      Mit dieser Hotline macht Handy Telesex richtig Laune, es passt einfach
+      alles. Wirklich ganz ganz großartig, weiter so!
+full_image: /img/telesex-anonym-diskret.jpg
+pricing:
+  heading: Was kostete die Telefonsex Line?
+  description: >-
+    Wir können dir einen günstigen und fairen Minutenpreis anbieten. Denn
+    vollkommen egal, ob du die 22er Nummer wählst oder vom Festnetz Apparat auf
+    der 0900er anrufst, die Minute kostet niemals mehr als 1,99€!
+  plans:
+    - description: 221 778 + PIN 006*
+      items:
+        - '*1.99 Euro / Minute'
+        - alle Mobilfunknetze
+      plan: Handy
+      price: '1,99€'
+    - description: 09005 - 22 777 000**
+      items:
+        - '**1.99 €/Min. im dt. Festnetz'
+        - Mobilfunk ggf. abweichend
+      plan: Festnetz
+      price: '1,99€'
+---
 
