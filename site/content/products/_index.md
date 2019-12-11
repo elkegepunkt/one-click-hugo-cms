@@ -69,7 +69,7 @@ testimonials:
     quote: >-
       Mit dieser Hotline macht Handy Telesex richtig Laune, es passt einfach
       alles. Wirklich ganz ganz großartig, weiter so!
-full_image: /img/beste-telefonsex-nummer.jpg
+full_image: /img/handysex_1500x500.jpg
 pricing:
   heading: Was kostete die Telefonsex Line?
   description: >-
