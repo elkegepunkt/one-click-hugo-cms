@@ -54,7 +54,7 @@ main:
     image: /img/on-the-phone.jpg
   image3:
     alt: Beste Telefonsex Nummer für Handysex
-    image: /img/beste-telefonsex-nummer.jpg
+    image: /img/telesex-anonym-diskret.jpg
 testimonials:
   - author: 'Willi B., Klagenfurt'
     quote: >-
@@ -69,7 +69,7 @@ testimonials:
     quote: >-
       Mit dieser Hotline macht Handy Telesex richtig Laune, es passt einfach
       alles. Wirklich ganz ganz großartig, weiter so!
-full_image: /img/telesex-anonym-diskret.jpg
+full_image: /img/beste-telefonsex-nummer.jpg
 pricing:
   heading: Was kostete die Telefonsex Line?
   description: >-
