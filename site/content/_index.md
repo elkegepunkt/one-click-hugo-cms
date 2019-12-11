@@ -29,9 +29,9 @@ products:
       Abenteuer der besonderen Art in den Handy Sex Hotlines. Dabei nutzt du in
       vollem Umfang sämtliche Vorteile unserer Telefon Sex Hotlines mit dem
       Handy. Mit unserem Angebot läufst du in keine Kostenfalle durch nicht
-      gewollte Abos oder versteckte, zusätzliche Kosten. Dich erwartet hier
-      einfach nur ungezügelter, preiswerter Sex am Handy mit heissen Frauen und
-      Girls aus deiner Nähe. 
+      gewollte Abos oder versteckte, zusätzliche Kosten. Dich erwartet
+      ungezügelter, preiswerter Sex am Handy mit heissen Frauen und Girls aus
+      deiner Nähe. 
   - image: /img/ruf-doch-mal-an.jpg
     text: >-
       Bei uns gibt es für dich nicht nur einfach das Erlebnis von günstiger
