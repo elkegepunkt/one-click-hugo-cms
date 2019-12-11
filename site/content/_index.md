@@ -1,6 +1,6 @@
 ---
 title: Versauter Handy Telefonsex
-subtitle: RUND UM DIE UHR MIT NETTEN FRAUEN AB 18
+subtitle: Rund um die Uhr mit netten Frauen ab 18 Jahren !
 image: /img/attraktive-frauen-1.jpg
 blurb:
   heading: Handysex ohne 0900 Nummer
@@ -8,26 +8,24 @@ blurb:
     Erotische Telefonate und versaute Gespräche mit attraktiven Damen in der
     Telefonsexline ohne 0900 Nummer vom Mobiltelefon. Günstiger Minutenpreis,
     alle Handynetze, alle Handys, kein Abo, anonym und diskret.
+
+
+    Günstig Handy Telefonsex ohne 0900 mit scharfen Girls genießen, ohne erst
+    lange im Netz danach suchen oder googeln zu müssen.
 intro:
   heading: Ruf doch mal an
   text: >-
     Ruf doch mal an, denn mobiler Handytelefonsex ist wirklich total vielseitig
     und auf jeden Fall erheblich energischer, als es den Anschein hat, wenn man
-    noch niemals die Rufnummer einer Handy Sex Hotline gewählt hat. Bei uns gibt
-    es für dich nicht nur einfach das Erlebnis von günstiger Telefonerotik vom
-    Handy mit versauten Ludern, nämlich kannst du dazu auch noch private
-    Sexkontakte vom Smartphone mit deutschen Hausfrauen, frivolen Studentinnen,
-    willigen Teens und erfahrenen Omas erfahren. Du bekommst also nicht nur eine
-    schnelle, unkomplizierte Nummer ohne Wartezeit am Telefon, sondern auch die
-    Möglichkeit heisse Girls beim Handytelefonsex kennenzulernen. Du bist hier
-    goldrichtig, was auch immer du suchst oder wie deine ganz persönlichen
-    Vorlieben und Neigungen beim Handy Sex auch aussehen mögen.
+    noch niemals die Rufnummer einer Handy Sex Hotline gewählt hat. 
+
+
+    Du brauchst nur zum Mobiltelefon greifen und die Erotikhotline für
+    Handytelefonsex anrufen, möchtest geile Blondinen und tabulose Schönheiten
+    nach deinem Geschmack beim live Sex am Telefon kennenlernen oder poppen. 
 products:
   - image: /img/girl-on-phone.png
     text: >-
-      Du brauchst nur zum Mobiltelefon greifen und die Erotikhotline für
-      Handytelefonsex anrufen, möchtest geile Blondinen und tabulose Schönheiten
-      nach deinem Geschmack beim live Sex am Telefon kennenlernen oder poppen.
       Alles kann, nichts muss. Verlass dich auf unser Erotikangebot, wenn du
       mehr suchst als stöhnende Frauem beim masturbieren. Oder ist es gerade so
       ein Erlebnis, dass dich erregt? Kein Problem, denn jeder bekommt in der
@@ -40,10 +38,7 @@ products:
       Girls aus deiner Nähe. 
   - image: /img/ruf-doch-mal-an.jpg
     text: >-
-      Ruf doch mal an, denn mobiler Handytelefonsex ist wirklich total
-      vielseitig und auf jeden Fall erheblich energischer, als es den Anschein
-      hat, wenn man noch niemals die Rufnummer einer Handy Sex Hotline gewählt
-      hat. Bei uns gibt es für dich nicht nur einfach das Erlebnis von günstiger
+      Bei uns gibt es für dich nicht nur einfach das Erlebnis von günstiger
       Telefonerotik vom Handy mit versauten Ludern, nämlich kannst du dazu auch
       noch private Sexkontakte vom Smartphone mit deutschen Hausfrauen, frivolen
       Studentinnen, willigen Teens und erfahrenen Omas erfahren. Du bekommst
@@ -55,15 +50,14 @@ products:
   - image: /img/unterhaltung-fuer-erwachsene.jpg
     text: >-
       Für Dirty Talk und knisternde Erotik wähle direkt unsere leicht zu
-      merkende Kurzwahlnummer, damit du sofort ohne lange Suchen zu müssen
-      günstig Handy Telefonsex ohne 0900 mit scharfen Girls genießen kannst. Die
-      Damen in der Hotline werden dir garantiert jeden deiner erotischen Wünsche
-      erfüllen. Günstiger Telefon Sex am Handy mit tabulosen Frauen aus ganz
-      Deutschland, welche wie du interesse an guten Sex haben. Wähle dich heute
-      noch bei unserem unzensierten Handy Telefonsex ein und zögere nicht mehr
-      länger sondern ruf jetzt an. Wähle die heiße Telefonsexnummer vom Handy
-      und verschaff dir selbst einen Eindruck von den Vorteilen beim Handysex
-      und der wilden Sexlust der auf deinen Anruf wartenden Damen.
+      merkende Kurzwahl-Nummer. Die Damen in der Hotline werden dir garantiert
+      jeden deiner erotischen Wünsche erfüllen. Günstiger Telefon Sex am Handy
+      mit tabulosen Frauen aus ganz Deutschland, welche wie du interesse an
+      guten Sex haben. Wähle dich heute noch bei unserem unzensierten Handy
+      Telefonsex ein und zögere nicht mehr länger sondern ruf jetzt an. Wähle
+      die heiße Telefonsexnummer vom Handy und verschaff dir selbst einen
+      Eindruck von den Vorteilen beim Handysex und der wilden Sexlust der auf
+      deinen Anruf wartenden Damen.
 values:
   heading: Ist Telefonsex mit Frauen aus meiner Region möglich?
   text: >-
